@@ -9,6 +9,13 @@
 * But most of the planets are irregular shapes
 * Share your taught on irregular shapes or how to fix it
 
+
+Courtesy:  
++ I used [fastGan](https://github.com/odegeasslbc/FastGAN-pytorch.git)
++ This is just for fun. I use photos from Google search 
++ I did not check its license
++ Please avoid using for commercial purpose
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vishnu-chand/planetGenerator/blob/main/planetGenerator.ipynb)
 
 
